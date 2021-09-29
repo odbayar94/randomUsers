@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.user__card {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: end;
+  background-color: cyan;
+  padding: 10px;
+  margin-top: 2px;
+}
+.user__subject {
+  margin-left: 3px;
+}
+
+.user {
+  display: flex;
+  flex-direction: column;
+}
